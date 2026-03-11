@@ -3,7 +3,7 @@ description: US Navy | Supply Corps Officer | MS Operations Research candidate, 
 show_downloads: no
 url: github link
 theme: jekyll-theme-slate
-logo: images/pic.png
+logo: assets/images/pic.png
 
 ---
 layout: home
