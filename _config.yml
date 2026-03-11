@@ -1,5 +1,34 @@
 title: Leigh Freitag
-description: US Navy Supply Corps Officer
+description: US Navy | Supply Corps Officer | MS Operations Research candidate, NPS (proj Sep2027) | BS Computational Mathematics, GWU '15
 show_downloads: no
+url: github link
 theme: jekyll-theme-slate
 logo: images/pic.png
+
+---
+layout: home
+author_profile: true
+title: "Hi, I'm Leigh"
+---
+
+I’m an MS OR candidate and Naval Officer with a focus on data science and logistics.
+
+Explore my portfolio.
+
+---
+title: "Projects"
+permalink: /projects/
+layout: single
+author_profile: true
+---
+
+## Featured Projects
+
+### QR Code Generator
+A Streamlit app that creates downloadable QR codes from text or URLs.
+
+### Olympic Analytics
+Exploratory data analysis and visualizations using athlete, GDP, and medal data.
+
+### WNBA Interactive Map
+A map-based project combining team, location, and visual storytelling.
