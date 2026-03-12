@@ -1,6 +1,8 @@
-I’m an MS OR candidate and Naval Officer with a focus on data science and logistics.
+MS candidate in Operations Research with a specialization in Logistics
 
-Explore my portfolio.
+Naval Officer with a focus on data science and logistics
+
+Explore my portfolio!
 
 ## Featured Projects
 
