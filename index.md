@@ -5,6 +5,9 @@ Naval Officer with a focus on data science and logistics
 
 Explore my portfolio!
 
+## Contact Me
+<b> Email: </b> leighfreitag@gmail.com
+
 ## Featured Projects
 
 ### QR Code Generator
