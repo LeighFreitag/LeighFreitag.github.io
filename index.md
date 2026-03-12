@@ -1,12 +1,27 @@
+## Overview
+US Navy Supply Corps Officer with a focus on data science and logistics
+
 MS Operations Research candidate | Naval PostGraduate School | Monterey, CA | (projected Sep 2027)
+
 BS Computational Mathematics | The George Washington University | Washington, DC | May 2015
 
-Naval Officer with a focus on data science and logistics
+- <b> Interested In: </b> (pending)
+- <b> Skills: </b> (pending)
 
-Explore my portfolio!
+## Explore my portfolio!
 
 ## Contact Me
 <b> Email: </b> leighfreitag@gmail.com
+<b> Phone: </b> (pending)
+<b> LinkedIn: </b> (pending)
+
+## Current Job
+<b> Student </b>
+Naval Postgraduate School
+(May 2025 - present)
+
+* text about what i'm studying
+* more text about something
 
 ## Featured Projects
 
