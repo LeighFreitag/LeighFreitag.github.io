@@ -1,2 +1,39 @@
-# LeighFreitag.github.io
-Host Portfolio
+# Hi, I'm Leigh
+### US Navy Supply Corps Officer
+with a focus in data science and logistics
+
+MS Operations Research candidate | Naval Post Graduate School | Monterey, CA | (projected Sep 2027)
+
+BS Computational Mathematics | The George Washington University | Washington, DC | May 2015
+
+<b> Explore my portfolio! </b>
+
+**Interested In:** (pending)
+
+**Skills:** (pending)
+
+## Contact Me
+- <b> Email: </b> leighfreitag@gmail.com
+- <b> Phone: </b> (pending)
+- <b> LinkedIn: </b> (pending)
+
+## Current Job
+**Student**           
+Naval Postgraduate School     
+(_June 2025 - present_)
+* defense-focused graduate education, including classified studies and interdisciplinary research, to advance the operational effectiveness, technological leadership and warfighting advantage of the US Navy
+* "from data to decision..." see more [here](https://nps.edu/web/or)
+
+## Featured Projects
+
+### QR Code Generator
+A Streamlit app that creates downloadable QR codes from text or URLs.
+To be added soon!
+
+### Olympic Analytics
+Exploratory and predictive data analysis correlating medal achievement to various factors such as BMI, Country GDP, and gender.\
+See the [repository](https://gitlab.nps.edu/comp2_oly_data_analysis/comp2_oly_data_analysis.git).
+
+### WNBA Interactive Map
+A map-based project displaying current and future teams, keying in on individual athlete statistics.
+To be added soon!
