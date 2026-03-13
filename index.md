@@ -1,3 +1,4 @@
+# Hi, I'm Leigh
 ## Overview
 US Navy Supply Corps Officer with a focus on data science and logistics
 
@@ -8,16 +9,16 @@ BS Computational Mathematics | The George Washington University | Washington, DC
 - <b> Interested In: </b> (pending)
 - <b> Skills: </b> (pending)
 
-## Explore my portfolio!
-
 ## Contact Me
 <b> Email: </b> leighfreitag@gmail.com
 <b> Phone: </b> (pending)
 <b> LinkedIn: </b> (pending)
 
+## Explore my portfolio!
+
 ## Current Job
-<b> Student </b>
-Naval Postgraduate School
+<b> Student </b> \
+Naval Postgraduate School\
 (May 2025 - present)
 
 * text about what i'm studying
@@ -27,9 +28,12 @@ Naval Postgraduate School
 
 ### QR Code Generator
 A Streamlit app that creates downloadable QR codes from text or URLs.
+To be added soon!
 
 ### Olympic Analytics
-Exploratory data analysis and visualizations using athlete, GDP, and medal data.
+Exploratory and predictive data analysis correlating medals one to various factors such as BMI, Country GDP, and gender.\
+See the [repository](https://gitlab.nps.edu/comp2_oly_data_analysis/comp2_oly_data_analysis.git).
 
 ### WNBA Interactive Map
-A map-based project combining team, location, and visual storytelling.
+A map-based project displaying current and future teams, keying in on individual athlete statistics.
+To be added soon!
